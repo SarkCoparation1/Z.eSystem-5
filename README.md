@@ -9,4 +9,6 @@ Gelişmiş özelliklere sahip ve açık kaynaklı bir işletim sistemidir.
 ### Format:
 LNC'dir ve .launchable destekler.
 
+Devkit'den çıkmak için Esc tuşuna basın.
+
 NOT: Bu işletims sistemi GPL lisanslıdır. Bu yüzden herhangi bir yerini değiştirirseniz açık kaynaklı yapmak zorundasınız. Eğer projeyi forklayıp herhangi bir şeyini değiştirip açık kaynaklı yapmazsanız GitHub'a şikayet edilecektir.
